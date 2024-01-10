@@ -1,0 +1,29 @@
+body{
+    font-family: "Montserrat";
+}
+
+.card{
+    width:300px;
+    background-color: rgb(255, 240, 220);
+}
+
+.card img{
+    width:100%;
+    height: auto;
+}
+
+.card .card-content{
+    padding: 15px;
+}
+
+.card h3{
+    margin:0
+}
+
+.card .btn{
+    text-decoration: none;
+    background-color: chocolate;
+    padding:5px 20px;
+    display: inline-block;
+    color: rgb(232, 232, 232);
+}
